@@ -1,0 +1,452 @@
+{
+    "groceries": [
+        {
+            "name": "handmade chocolate fresh crispy bhujia bengali style yammi tasty  (1 kg)",
+            "price": 299.0,
+            "description": "bengali tasty and flower very tasty, crispy snack which is perfect to much anytime....",
+            "expiry": "4 Months",
+            "product_id": "3415edd8-be33-42e2-a58e-3a2447c532d0"
+        },
+        {
+            "name": "Haldiram's Bhujia Sev  (200 g)",
+            "price": 32.0,
+            "description": "No description available.",
+            "expiry": "7 Months",
+            "product_id": "4133ba42-cc1a-42d4-8e2c-d3774a0c1869"
+        },
+        {
+            "name": "Oatizens Oats Khakhra | No Maida | Authentic Gujarati Snack  (3 x 200 g)",
+            "price": 199.0,
+            "description": "Enjoy a wholesome, traditional Gujarati snack with a healthy twist! Oatizens Oats Khakhra is made without maida, using high-quality oats to deliver a light, crunchy, and flavorful experience in every bite. This khakhra combines authentic flavors with the goodness of oats, providing a high-fiber, low-calorie snack that's perfect for health-conscious individuals. Packaged in a convenient 200 g (Pack of 3), it’s ideal for daily snacking, travel, or sharing with family.",
+            "expiry": "12 Months",
+            "product_id": "e239dc8d-3451-41f1-931c-e7dda90d8939"
+        },
+        {
+            "name": "GOPAL NAMKEEN Vanela Gathiya  (200 g)",
+            "price": 40.0,
+            "description": "No description available.",
+            "expiry": "4 Months",
+            "product_id": "0e55a398-848c-4f33-8a8b-6a5e0d6b26b8"
+        },
+        {
+            "name": "Organic Bites Jodhpuri Kaju Badam Laccha Cashew , Almond , Potato Sticks Mixture (Marvari Flavour)  (200 g)",
+            "price": 249.0,
+            "description": "No description available.",
+            "expiry": "6 Months",
+            "product_id": "b360bb9e-0477-48a1-95c9-3e04bee98294"
+        },
+        {
+            "name": "Haldiram's moong Dal  (200 g)",
+            "price": 36.0,
+            "description": "No description available.",
+            "expiry": "8 Months",
+            "product_id": "6d37fe7f-02e1-48c7-849e-ea1cdca871e8"
+        },
+        {
+            "name": "Organic Bites Jodhpuri Besan Soft Gathiya (Ganthiya) namkeen Snacks  (400 g)",
+            "price": 249.0,
+            "description": "No description available.",
+            "expiry": "6 Months",
+            "product_id": "4c6427da-03a2-4b12-83f9-d50c81a93efa"
+        },
+        {
+            "name": "handmade chocolate 1KG fresh moong dal mix chota DON namkeen  (2 x 0.5 kg)",
+            "price": 289.0,
+            "description": "This uniquely designed Product is made of very fine quality material and comes in various ranges & varieties and hence fulfills the need of all.",
+            "expiry": "3 Months",
+            "product_id": "8daa8099-021b-4a36-afbf-c1e670bc221d"
+        },
+        {
+            "name": "Organic Bites Butter Chakli, Homemade Chakli Snacks, Indian Snacks, Ready to Eat Snacks  (400 g)",
+            "price": 315.0,
+            "description": "No description available.",
+            "expiry": "6 Months",
+            "product_id": "a59fd0ab-e0e1-45ea-85d0-0b1bc4295089"
+        },
+        {
+            "name": "AMAYU Raw Organic Pumpkin Seeds | Sunflower Seeds for Eating Mix Combo Pumpkin Seeds  (400 g, Pack of 2)",
+            "price": 249.0,
+            "description": "No description available.",
+            "expiry": "12 Months",
+            "product_id": "be4ea523-e276-40c3-a0cb-99ac63a72fd6"
+        },
+        {
+            "name": "SWAD Distinctly Different and Delicious Garlic Pickle/ Lahsun Achar - 400g Garlic Pickle  (400 g)",
+            "price": 199.0,
+            "description": "There’s no right way of eating Garlic pickle. Every household has its own unique way of enjoying it. But here are a few universally agreed foods with which Lahsun ka achar would pair the best. Each bite whether taken with piping hot flatbread, aloo ka paratha, dal, or boiled rice, will unfold almost instantly the entire flavor profile of the zesty Punjabi garlic pickle. You will love to have it every day of the week!",
+            "expiry": "12 Months",
+            "product_id": "290f576b-10a4-4c20-aa5d-3f7daa106553"
+        },
+        {
+            "name": "Zindagi Stevia Extract White Powder - Natural Stevia Spoonable White Powder - 200gm Sweetener  (200 g)",
+            "price": 370.0,
+            "description": "No description available.",
+            "expiry": "24 Months",
+            "product_id": "5b38fa89-74a3-4a84-a402-1437a0320ce7"
+        },
+        {
+            "name": "SWAD Mango Pickle Mango Pickle  (400 g)",
+            "price": 185.0,
+            "description": "Drown in the taste of authentic Indian spicy pickle. Reminiscent of home and the taste of grand mom’s handmade pickle, Swad's Mango pickle boasts of premium quality. Made from handpicked luscious pieces of Baby Mango blended & seasoned with, salt, select hot and tangy spices. Preserved with the help of edible oil this pickle stays fresh for years and continues to add the missing texture and flavour to every meal.",
+            "expiry": "9 Months",
+            "product_id": "f8223722-1a19-4212-ab5a-1b4d1567a03f"
+        },
+        {
+            "name": "Rasayanam Pure Original Kashmiri Saffron/Kesar/ Kumkum 1gm| Ideal for Pooja & Pregnancy  (1 g)",
+            "price": 449.0,
+            "description": "Kashmiri Mogra saffron is considered the best quality kesar (saffron) in the world. This Grade A1 (Highest quality) saffron from Rasayanam is the bought to you from Pampore - that holds the legacy of this extraordinary spice. Benefits includes antioxidant properties , increase vitality, increase immune system and cancer fighting properties among others. It is also beneficial for women in pregnancy.",
+            "expiry": "18 Months",
+            "product_id": "3276d066-5eef-46f8-abe4-2f7ad8a2e599"
+        },
+        {
+            "name": "LIVYOR Sunflower Seeds for Eating | High in Protein and Fibers Sunflower Seeds  (1 kg)",
+            "price": 359.0,
+            "description": "No description available.",
+            "expiry": "12 Months",
+            "product_id": "88afdab6-7512-4137-8c37-2f9ba7f7ae68"
+        },
+        {
+            "name": "NutroVally Weight Loss Combo|Chia, Flax, Pumpkin, Sunflower, Watermelon Seeds-edible Chia Seeds, Golden Flax Seeds, Pumpkin Seeds, Sunflower Seeds, Watermelon Seeds  (1000 g, Pack of 5)",
+            "price": 469.0,
+            "description": "No description available.",
+            "expiry": "18 Months",
+            "product_id": "0af6e057-70df-4138-b3a8-1d3a76b8d9e5"
+        },
+        {
+            "name": "NeutriOne Rosemary Leaves Dried for Hair Growth|Skin Glow| With 100ml Spray Bottle  (100 g)",
+            "price": 99.0,
+            "description": "No description available.",
+            "expiry": "18 Months",
+            "product_id": "de77ba29-448a-442f-9666-6c99754ab92b"
+        },
+        {
+            "name": "NutroVally Premium Black Dates for Strong Bones | 100% Fresh & Natural | Anti-Oxidants Rich Dry Dates  (2 x 400 g)",
+            "price": 299.0,
+            "description": "NutroVally dates are not only delicious but also pack a nutritional punch, offering several health benefits. They have a natural sweetness and rich flavor that people often associate with dessert. Dates offer an impressive array of nutrients and potential health benefits. Their fiber, antioxidants, minerals and plant compounds may boost digestion, brain function, heart health, fertility and more. It can be a delicious and nutritious addition to your diet routine.",
+            "expiry": "12 Months",
+            "product_id": "a908b184-bba7-46ed-bf16-c51b50ac2595"
+        },
+        {
+            "name": "NAMHYA FOODS NAMHYA LIVER CLEANSE TEA Unflavoured Herbal Tea Pouch  (100 g)",
+            "price": 589.0,
+            "description": "Namhya Liver Cleanse Tea is a natural, Ayurvedic blend designed to support liver detoxification and promote overall digestive health. Made with powerful herbs like Milk Thistle, Turmeric, Guduchi, and Triphala, this tea helps detoxify the liver, improve digestion, and boost energy levels. Rich in antioxidants and anti-inflammatory compounds, it aids in reducing bloating, enhancing skin health, and supporting your body’s natural detox process. With no artificial additives, Namhya Liver Cleanse Tea offers a refreshing, holistic way to nurture your liver and feel your best.",
+            "expiry": "12 Months",
+            "product_id": "1ca30d2f-67b1-4845-b1d4-d76a5a9944b5"
+        },
+        {
+            "name": "EATFUL Phool Makhana Raw/Regular Lotus Seed Pop/Fox Nut (250Gram)  (250 g)",
+            "price": 399.0,
+            "description": "Makhana, also called fox nuts or lotus pops, are the niche product of India having an exquisite taste. They are extremely popular during fasting. They are the best snacks to satisfy your mid-meal hunger pangs yet give you health benefits. EATFUL brings to you the best quality makhana, packed hygienically right at your doorsteps to savour.",
+            "expiry": "12 Months",
+            "product_id": "d88795ed-ea63-451a-bcdd-c9bbd6433161"
+        },
+        {
+            "name": "Tata Sampann Salted & Roasted Cashews, Flavourful & Crunchy, No Preservatives  (190 g)",
+            "price": 289.0,
+            "description": "No description available.",
+            "expiry": "9 Months",
+            "product_id": "6613ff21-fe64-4a8c-a1f0-58f658b9cb6c"
+        },
+        {
+            "name": "HALDIRAM BHUJIAWALA KHATTA MEETHA NAMKEEN (400*2) 800GM  (2 x 400 g)",
+            "price": 260.0,
+            "description": "Indian namkeen is the most famous snack, loved by everyone. It becomes an important part of everybody's life as all of us like munching. It satisfies our hunger pangs. Be it afternoon munching or midnight snacks namkeen is the most reliable option. It originates from the word namak, which means 'salt'. Haldiram Bhujiawala present its most premium and traditional age-old, gluten-free Namkeen. Available in a pack of 400gram, it is tasty as well as keep us its authentic taste. Have it with tea or coffee and serve your guest too. Browse through our quality range of variety of namkeens and enjoy snacking.",
+            "expiry": "5 Months",
+            "product_id": "4abb8323-e565-4124-bab4-2bc5ea215796"
+        },
+        {
+            "name": "Organic Bites Nylon NAMKEEN SEV for BHEL,CHAAT and SEVPURI (Non Spicy)  (200 g)",
+            "price": 199.0,
+            "description": "No description available.",
+            "expiry": "6 Months",
+            "product_id": "f5fed707-282a-4f5b-9e20-44f6f2728b13"
+        },
+        {
+            "name": "Organic Bites Roasted Chana Plain (Desi Chana)  (200 g)",
+            "price": 170.0,
+            "description": "No description available.",
+            "expiry": "6 Months",
+            "product_id": "9249360f-9a2f-495d-a8a4-8810c804f181"
+        },
+        {
+            "name": "Medhyata Premium California Roasted Pistachios Large Lightly Salted Pista [Jar Pack]  (250 g)",
+            "price": 349.0,
+            "description": "Medhyata Pistachios - Delicious crispy taste and lightly salted to keep the sodium low. It is best as a serving for cocktails, evening snacks or anytime munch. Tasty Yummy Crisp",
+            "expiry": "12 Months",
+            "product_id": "eb2bda91-0861-417b-86d2-381c687daa0f"
+        },
+        {
+            "name": "Dabur Honey|100% Pure|No Sugar Adulteration|Worlds No.1 Honey Brand - 1.2kg  (1.2 kg)",
+            "price": 399.0,
+            "description": "No description available.",
+            "expiry": "18 Months",
+            "product_id": "d6b68596-8ac5-4dd1-993c-aa064a7ba6a9"
+        },
+        {
+            "name": "32 Baar Chamomile Chamomile Green Tea Pouch  (100 g)",
+            "price": 230.0,
+            "description": "Chamomile Green Tea For Better Sleep and Weight Loss\n\nThe 32 Baar Magic Chamomile Flavor Green Tea comes with healthy instruction and guaranteed fat loss tips by Savikar Bhardwaj, who has so far helped thousands of people to loose fat with natural eating habits.\n\nThis green tea is been specially tested and tried by Savikar Bhardwaj and is one of the best quality ever.\n\nTake this green tea 1 hour after every meal thrice a day with the fat loose tips guided by Savikar and see the magic in few days.\n\nThe tips are :\n\n1. Chew the food at least 32 times.\n\n2. Take very small bites of Roti or Bread.\n\n3. Take a time of at least 30 minutes to finish the food.\n\n4. One day in a week eat regular food without salt.",
+            "expiry": "24 Months",
+            "product_id": "c848dafc-83d5-403c-b585-b545576abc1d"
+        },
+        {
+            "name": "3 Roses Tea Box  (500 g)",
+            "price": 390.0,
+            "description": "No description available.",
+            "expiry": "366 Days",
+            "product_id": "a3686c4c-3cef-4344-8f7a-f17a3b24765c"
+        },
+        {
+            "name": "TruNutra Raw Unroasted Chia Seeds with Omega 3 and Zinc for health benefits Chia Seeds  (200 g)",
+            "price": 110.0,
+            "description": "We bring you the TruNutra Chia Seeds used as a staple in the ancient diet of people in U.S. & Mexico. Chia seeds are a rich source of Fiber, Omega 3 Fatty Acids & Omega 6 fatty acid. Loaded with various micronutrients like Magnesium, Calcium & Zinc. Include Chia Seeds to your diet, fulfil your nutritional requirements & get ready to experience healthy changes within you.",
+            "expiry": "18 Months",
+            "product_id": "a9e7a7bb-e137-4dfc-9e24-7c8fc220bf83"
+        },
+        {
+            "name": "Nakpro Cocoa Powder Unsweetened & Alkalized | 22.5g Protein, 397.7g Energy, Plant Based Cocoa Powder  (200 g)",
+            "price": 199.0,
+            "description": "Nakpro Cocoa Powder is 100 percent Natural Unsweetened.\nNakpro Cocoa Powder is rich source of antioxidants and flavanols levels. It has high content of healthful compounds like magnesium, calcium, zinc, iron and omega-6 fatty acids.",
+            "expiry": "12 Months",
+            "product_id": "25e59d02-9528-46e2-b34f-e9e278a36f29"
+        },
+        {
+            "name": "Farmley Premium Broken (Akrot) Walnuts  (200 g)",
+            "price": 270.0,
+            "description": "Farmley, source all the nuts & dry fruits directly from the farms which are hygienically packed in a HACCP certified unit. Walnuts are an excellent source of antioxidants that are good for health. These walnuts are a good source of vegan omega-3 fat, which help reduce heart disease risk. Our unadulterated walnuts contains beneficial bacteria that improves gut health.Also, walnuts helps in controlling the appetite; as they are filled with good quality calories that keeps you full. 100% Natural. No Adulteration, No Chemicals, No Preservatives, Non-GMO.",
+            "expiry": "270 Days",
+            "product_id": "e4678178-eb2b-4ee6-99ce-98a1e4002595"
+        },
+        {
+            "name": "Happilo Premium Natural Californian Almonds  (200 g)",
+            "price": 222.0,
+            "description": "No description available.",
+            "expiry": "366 Days",
+            "product_id": "d01eca96-0c43-4617-84bc-ed064e15b0d0"
+        },
+        {
+            "name": "SWAD Soya Chaap (Vegan) 850 g",
+            "price": 235.0,
+            "description": "No description available.",
+            "expiry": "12 Months",
+            "product_id": "c5626247-f30d-453e-a193-a695acf4d49d"
+        },
+        {
+            "name": "Manna Black Dates - 800g (400g x 2 Packs) | Select Premium Organic Handpicked Dates | Khajoor | Khajur | Soft Dried Healthy Snack | Soft & Juicy texture | Zero Added Sugar & Preservatives | Rich in Iron, Fibre & Vitamins Dry Dates Dry Dates  (2 x 400 g)",
+            "price": 332.0,
+            "description": "Black fard dates are a cultivar of dates. They are identified by their deep dark brown colour and characterised by a very tender skin and small seeds. Black Fard Dates have a sweet & succulent taste. The dates are popular in middle eastern countries of Oman, UAE, and Saudi Arabia.",
+            "expiry": "12 Months",
+            "product_id": "5ebac8a9-cc4e-463b-ab84-7244299f624c"
+        },
+        {
+            "name": "BLUE TEA Butterfly Pea Flower30 Pyramid Tea Bags | Premium Zipper Pack Herbal Tea Bags Pouch  (30 Bags)",
+            "price": 376.0,
+            "description": "Packed with powerful antioxidants, our Butterfly Pea Flower Tea helps combat free radicals and promotes overall health.",
+            "expiry": "730 Days",
+            "product_id": "2447e5ed-0312-4474-9604-d0fba586db2c"
+        },
+        {
+            "name": "Cauliflower 1 Units  (500 - 700 gm)",
+            "price": 61.0,
+            "description": "No description available.",
+            "expiry": "5 Days",
+            "product_id": "cbeb810d-893e-4799-8d9c-84d7e0cd9c60"
+        },
+        {
+            "name": "Capsicum Green 500 g",
+            "price": 43.0,
+            "description": "No description available.",
+            "expiry": "5 Days",
+            "product_id": "7823fb74-2e3b-4872-aab4-226d30131cb9"
+        },
+        {
+            "name": "Curry Leaves 100 g",
+            "price": 25.0,
+            "description": "No description available.",
+            "expiry": "5 Days",
+            "product_id": "65d50759-3af1-4794-978e-75e6da031d54"
+        },
+        {
+            "name": "Mustard leaves Leafy 250 g",
+            "price": 28.0,
+            "description": "No description available.",
+            "expiry": "6 Days",
+            "product_id": "b3f9f463-5329-48a1-8dd1-8846eb92f5f1"
+        },
+        {
+            "name": "Urban Harvest Green Peas Peeled Peeled 200 g",
+            "price": 64.0,
+            "description": "No description available.",
+            "expiry": "3 Days",
+            "product_id": "a602de82-1834-4118-bf64-cf03392b4989"
+        },
+        {
+            "name": "Urban Harvest Moong Sprouts Peeled 175 g",
+            "price": 53.0,
+            "description": "No description available.",
+            "expiry": "4 Days",
+            "product_id": "b7ada8ec-d1a5-4f8b-b56d-414b00654400"
+        },
+        {
+            "name": "Urban Harvest Garlic Peeled Peeled 100 g",
+            "price": 90.0,
+            "description": "No description available.",
+            "expiry": "4 Days",
+            "product_id": "b5d26be8-ba6a-43f3-8ee9-85ceffbd79e8"
+        },
+        {
+            "name": "Drumstick 250 g",
+            "price": 46.0,
+            "description": "No description available.",
+            "expiry": "7 Days",
+            "product_id": "902d1859-853d-4484-a035-b0f7db35293b"
+        },
+        {
+            "name": "Urban Harvest Sweet Corn Kernels Peeled 200 g",
+            "price": 67.0,
+            "description": "No description available.",
+            "expiry": "3 Days",
+            "product_id": "7a76c244-e259-4165-a342-7c834cabf798"
+        },
+        {
+            "name": "Banana Stem 1 Units  (1 Units)",
+            "price": 37.0,
+            "description": "No description available.",
+            "expiry": "6 Days",
+            "product_id": "2a05a162-92a1-4632-8b80-97368b8fc86b"
+        },
+        {
+            "name": "Urban Harvest Cauliflower Florets Cut 200 g",
+            "price": 52.0,
+            "description": "No description available.",
+            "expiry": "3 Days",
+            "product_id": "1968abbb-ad36-4c41-ad03-79b434ca0baa"
+        },
+        {
+            "name": "Fenugreek Methi 250 g",
+            "price": 55.0,
+            "description": "No description available.",
+            "expiry": "4 Days",
+            "product_id": "349016c5-285d-4932-9080-4fc1f3e5ebe0"
+        },
+        {
+            "name": "Tomato Hybrid 500 g",
+            "price": 25.0,
+            "description": "No description available.",
+            "expiry": "7 Days",
+            "product_id": "5e70e073-5254-406f-957a-b264c41525dd"
+        },
+        {
+            "name": "Ginger 100 g",
+            "price": 13.0,
+            "description": "No description available.",
+            "expiry": "12 Days",
+            "product_id": "6ac08646-58ec-4804-b13a-31bc0b65a2c3"
+        },
+        {
+            "name": "Ladies Finger 500 g",
+            "price": 28.0,
+            "description": "Ladies finger, or okra, is a versatile green vegetable packed with fiber and nutrients like vitamin C and K. Rich in fiber, vitamins, and antioxidants, okra is believed to support digestive health, boost immunity, and promote healthy skin. Try it in simple recipes like okra stir-fry with onions and tomatoes, crispy okra fries seasoned with spices, or okra curry simmered in coconut milk for a delicious and nutritious meal.",
+            "expiry": "5 Days",
+            "product_id": "761fa1a5-70cb-4b54-bf6a-547526ced892"
+        },
+        {
+            "name": "Urban Harvest Pulao Veggie Mix Cut 250 g",
+            "price": 67.0,
+            "description": "No description available.",
+            "expiry": "3 Days",
+            "product_id": "a9c20985-43d2-4ce7-9668-4c8ba9883f84"
+        },
+        {
+            "name": "Tapioca 500 g",
+            "price": 34.0,
+            "description": "No description available.",
+            "expiry": "9 Days",
+            "product_id": "82ab873f-ded1-4704-a45f-8d70593ceab8"
+        },
+        {
+            "name": "Urban Harvest Ash Gourd Portion Cut 500 g",
+            "price": 64.0,
+            "description": "No description available.",
+            "expiry": "3 Days",
+            "product_id": "00a19838-1265-45b0-b626-ea8e71b0357a"
+        },
+        {
+            "name": "Coconut Large Kalash 1 Units",
+            "price": 85.0,
+            "description": "No description available.",
+            "expiry": "9 Days",
+            "product_id": "4513e4ac-f248-4486-8315-2334c43c2c4f"
+        },
+        {
+            "name": "Urban Harvest Peeled Sambhar Onion Peeled 200 g",
+            "price": 49.0,
+            "description": "No description available.",
+            "expiry": "3 Days",
+            "product_id": "bc0b190f-d347-4c54-b02d-ae1ff5c1e940"
+        },
+        {
+            "name": "Minutes Assorted Fruits & Veg Box 1 Units",
+            "price": 202.0,
+            "description": "No description available.",
+            "expiry": "5 Days",
+            "product_id": "4253067c-f957-414f-b1d2-88f78483cc6d"
+        },
+        {
+            "name": "Urban Harvest Fresh Mango Leaves String / Toran 1 Units",
+            "price": 56.0,
+            "description": "No description available.",
+            "expiry": "3 Days",
+            "product_id": "459a4fa4-fcc7-432e-bf12-0c4cbebe1844"
+        },
+        {
+            "name": "Tasty Nibbles LIGHT MEAT TUNA FLAKES IN WATER Sea Foods  (370 g, Pack of 2)",
+            "price": 320.0,
+            "description": "Wild caught Skipjack Tuna, processed with Japanese Technology meeting global standards .Tasty Nibbles Light meat Tuna in Water is a  Ready -to-Eat all-time meal with natural ingredients and no added preservatives. Heart friendly product with  rich source of Omega 3 fatty acid, proteins, vitamins and minerals comes with  HACCP& Halal certifications. Tasty Nibbles Light meat Tuna in water is Ideal for all your varied Tuna Recipes including  Keto diet.",
+            "expiry": "730 Days",
+            "product_id": "451fd151-2c3a-4799-8fdf-0d9c381ec57b"
+        },
+        {
+            "name": "AYUVYA Ayurvedic i-Gain+ Weight Gainer & Shatavari Capsules, Ayurvedic Combo Kit Weight Gainers/Mass Gainers  (90 No, No Flavour)",
+            "price": 853.0,
+            "description": "No description available.",
+            "expiry": "12 Months",
+            "product_id": "0207c727-66ff-4015-ab34-2ee526e9ddca"
+        },
+        {
+            "name": "Octoking Sardine Fish Curry Ready to Eat Sea Foods  (200 g, Pack of 3)",
+            "price": 336.0,
+            "description": "Octoking is a new brand established by Ocean Diamond Traders. Main vision of Octoking is to provide the qualitative and healthy canned nonveg products to customers. These products are made by fresh meat & organic ingredients with traditional taste and our modern technology keeps the product tasty & fresh for a long period. Specialty of Octoking is no harmful chemicals are used to keep the product tasty & fresh.\n\nOur mission is to deliver the high-quality tasty products to your doorsteps. Our ready to eat products are available in attractive cans with multiple sizes which will be easy to carry during your travel also. Customers can feel the traditional taste by using Octoking products.",
+            "expiry": "12 Months",
+            "product_id": "c0cbd394-737d-41da-9ae8-c17e5a0a9721"
+        },
+        {
+            "name": "Wellbeing Nutrition Beauty Korean Marine Collagen Peptides with  (250 g)",
+            "price": 1803.0,
+            "description": "A dermatologist recommended, proprietary formulation of 8000 mg Premium Wild Caught Pure Marine Collagen (Type I ) combined with clinically proven botanicals, complete amino acid profile, potent antioxidants & added ingredients of Hyaluronic Acid, Rosehip, Astaxanthin, Natural Biotin,Vitamin C from Acerola Cherry & Vitamin E, in precise doses. A Daily serving of this beauty collagen powder helps boost your collagen levels and is your ultimate beauty solution for radiant, youthful skin, thicker, shinier hair and stronger nails.",
+            "expiry": "24 Months",
+            "product_id": "8c4b2ddb-08e7-4578-9ba2-51c1d577722a"
+        },
+        {
+            "name": "Active Buy 1 get 1 Ocean Fish 2.4 Kg Dry Adult Cat Food",
+            "price": 371.0,
+            "description": "Active Cat Food is a complete and balanced meal recommended for adult cats to keep them active, agile and healthy. Enriched with high quality ingredients such as ocean fish, eggs,peas,corn, long grain rice and carrots,that gives them the added energy and nourishment they need for optimum growth. The advanced nutrient rich recipe promotes and aids the 7 signs indicative of good cat health; overall wellness and body condition, visible skin health and shinier fur, digestive performance, a strong immune system, joint and dental health and optimum growth.",
+            "expiry": "24 Months",
+            "product_id": "168731fc-1855-4af5-bd8b-64aa2558aacd"
+        },
+        {
+            "name": "Pet En Care Dog Treat Twisted Munchy, Chew Sticks, Mutton Flavor, 200 GMS, Set of 2 Mutton 0.4 kg (2x0.2 kg) Dry Adult Dog & Puppy Food",
+            "price": 240.0,
+            "description": "No description available.",
+            "expiry": "18 Months",
+            "product_id": "3641f680-2500-4cea-9687-c99801d495c9"
+        },
+        {
+            "name": "Tasty Nibbles CANNED SARDINE IN OIL 185G Sea Foods  (185 g)",
+            "price": 115.0,
+            "description": "No description available.",
+            "expiry": "24 Months",
+            "product_id": "02ba66e1-4db1-42e3-8630-04f4b5678203"
+        }
+    ]
+}
