@@ -117,9 +117,4 @@ Before running the project, make sure you have the following installed:
   - Full_name view
   - Full_description view
 
-## Work Done by each team member:
-
-- **S Lekesh (IMT2024088) AND P Siddharth (BT2024207)**: they worked on GUI and backend of admin page of this application while also contributing ideas to overall of this project.
-- **Sahil (IMT2024090) And Tharun (IMT2024009)**: They worked on GUI and backend of customer page of this application while also contributing in collection of database for products.
-- **Tanisha (BT2024267)**: She worked on both GUI and Backend of Login page while also contributing in overall code and idea of this project.
 
